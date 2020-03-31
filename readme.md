@@ -3,7 +3,7 @@ Aplikasi hotel ini adalah aplikasi yang dapat digunakan di dalam sebuah hotel da
 Aktor yang menggunakan aplikasi ini adalah:
 1. Guest (Tamu) : Guest  dapat melihat sisa waktu yang tersisa untuk menginap di kamar tersebut, melihat detail order dan pembayaran
                   mereka masing - masing dan memanggil pelayan jika ada yang dibutuhkan.
-2. Resepsionis : Resepsionis akan melakukan registrasi (check in) dan check out untuk customer, memeriksa ruangan yang tersedia, dan
+2. Resepsionis : Resepsionis akan melakukan registrasi (check in) dan check out untuk guest, memeriksa ruangan yang tersedia, dan
                  mendapatkan notifikasi pemanggilan kamar (yang akan diteruskan kepada pelayan secara manual).
 3. Admin : Admin dapat mencari ruangan, mendapatkan detail ruangan dan apakah ruangan tersebut tersedia atau tidak.
            Admin juga dapat menambahkan ruangan, mengubah detail ruangan dan menghapus sebuah ruangan dari sistem.
