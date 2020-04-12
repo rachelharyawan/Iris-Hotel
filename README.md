@@ -18,6 +18,7 @@ Resepsionis:
 2. Guest Check out
 <br>
 Admin:
+<br>
 1. Mencari ruangan
 <br>
 2. Mendapatkan detail ruangan
