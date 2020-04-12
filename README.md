@@ -17,6 +17,7 @@ Resepsionis:
 <br>
 2. Guest Check out
 <br>
+<br>
 Admin:
 <br>
 1. Mencari ruangan
